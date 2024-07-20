@@ -5,7 +5,7 @@ This project implements and compares various classifiers on the MNIST dataset. T
 ## Project Overview
 
 - **Dataset:** MNIST Handwritten Digits
-- **Main File:** `mnist_classification.ipynb`
+- **Main File:** `untitled.ipynb`
 - **Libraries Used:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## Features
